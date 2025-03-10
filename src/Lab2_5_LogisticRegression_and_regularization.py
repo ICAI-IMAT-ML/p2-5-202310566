@@ -1,4 +1,5 @@
 class LogisticRegressor:
+    print("Hola")
     def __init__(self):
         """
         Initializes the Logistic Regressor model.
